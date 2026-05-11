@@ -55,7 +55,8 @@ stroke-food-guide-skill/
 ├── skill.yaml           # Skill配置（含指南出处、创建者信息、免责声明）
 ├── system_prompt.md     # 系统提示词（科普对话风格+吞咽安全优先级）
 ├── knowledge_base.md    # KPK知识库（18个知识点）
-├── recipes_data.md      # 7大地区完整食谱数据
+├── recipes_data.md      # 7大地区84套完整食谱数据
+├── recipes_overview.md  # 食谱概览与使用指南
 ├── README.md            # 本文件
 ├── install.sh           # Linux/macOS安装脚本
 └── install.bat          # Windows安装脚本
